@@ -1,0 +1,14 @@
+table td:nth-child(1):first-letter, li{
+    text-transform:capitalize;
+}
+
+h3 {
+    text-transform:capitalize;
+    padding: 20px;
+    margin: 20px;
+}
+
+ul {
+    margin: 20px;
+}
+
